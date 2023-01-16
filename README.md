@@ -6,10 +6,15 @@ Diabetic retinopathy (DR) is one of the most common reasons for human vision los
 <img width="507" alt="image" src="https://user-images.githubusercontent.com/47912649/212686238-a7105bd9-7427-4e5b-8056-ab54d0f85866.png">
 
 DR Stages
+
 <img width="518" alt="image" src="https://user-images.githubusercontent.com/47912649/212686301-202a5a8b-030c-41a7-8bcd-5ece3a4b0741.png">
 
+
+
 TSNE visualisation
+
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47912649/212686363-24b18c5d-5705-4893-8931-c3da6cef5ae2.png">
 
 Preprocessed Image 
+
 <img width="1009" alt="image" src="https://user-images.githubusercontent.com/47912649/212686625-8a7da7cb-055c-4102-858f-d6673c30ece4.png">
